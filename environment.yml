@@ -1,0 +1,6 @@
+name: image-to-pixel-art
+dependencies:
+  - pip:
+      - opencv-python
+      - scikit-learn
+      - numpy
